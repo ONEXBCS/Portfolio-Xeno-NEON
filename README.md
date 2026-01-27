@@ -18,7 +18,7 @@ De website toont wie ik ben, wat ik doe en welke projecten ik (binnenkort) bouw.
 
 ## 📁 Mappenstructuur
 ```
-portfolio/
+portfolio-main/
 ├── index.html
 ├── css/
 │   └── style.css
