@@ -16,18 +16,17 @@ De website toont wie ik ben, wat ik doe en welke projecten ik (binnenkort) bouw.
 - Font Awesome
 - Google Fonts (Poppins)
 
-## 📁 Projectstructuur
-portfolio-main/
+## 📁 Mappenstructuur
+```
+portfolio/
 ├── index.html
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── images/
-│ │ ├── logo.png
-│ │ ├── main.png
-│ │ └── overmij.png
-
-
+├── css/
+│   └── style.css
+├── images/
+│   ├── logo.png
+│   ├── main.png
+│   └── overmij.png
+```
 ## 📬 Contact
 - GitHub: https://github.com/ONEXBCS
 - Instagram: https://www.instagram.com/xeno_bcs
