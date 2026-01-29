@@ -31,6 +31,6 @@ portfolio-main/
 - GitHub: https://github.com/ONEXBCS
 - Instagram: https://www.instagram.com/xeno_bcs
 - YouTube: https://www.youtube.com/@ONEX_B
-- E-mail: xeno.becaus@gmail.com
+- E-mail: xeno.becaus1@gmail.com
 
 © 2026 Xeno Becaus. Alle rechten voorbehouden.
